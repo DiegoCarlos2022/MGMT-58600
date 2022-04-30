@@ -1,2 +1,2 @@
 # MGMT-58600
-PPT of final picked from Coursera
+PPT of final project picked from Coursera
